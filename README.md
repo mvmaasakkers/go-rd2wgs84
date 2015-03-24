@@ -7,7 +7,7 @@ This calculates the correct Latitude and Longitude based on the (Dutch) RD syste
 
 Usage:
 
-```golang
+```go
 package main
 
 import (
